@@ -2,3 +2,5 @@
 -cafe
 -sucre
 -lait
+-miel
+-citron
